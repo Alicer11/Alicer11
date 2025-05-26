@@ -11,8 +11,8 @@ E-mail: alicerudy01@gmail.com
 ## 🕯️GitHub Stats
 
 <p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Amrl&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice11&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Alicer11&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicer11&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🕯️Linguagens e Tecnologias
